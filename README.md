@@ -16,7 +16,7 @@ There are few steps in establishing connections, access between services inside 
 ## Azure cloud environment visualization 
 <img width="819" alt="Screenshot 2024-12-08 at 2 38 01 PM" src="https://github.com/user-attachments/assets/11338cf0-d5c5-47f6-a927-9bb85341971d"> <br />
 
-** Primary Resources in Resource group **
+**Primary Resources in Resource group**
 <img width="1189" alt="Screenshot 2024-12-08 at 5 21 46 PM" src="https://github.com/user-attachments/assets/060b1fe9-a753-486d-9632-6a7116b17f03">
 
 
