@@ -7,9 +7,11 @@ Data is available in https://github.com/KBR0551/IPL-data-Analysis-using-Databric
 *ADLS GEN2:* Store layer (/bronze, silver, gold) <br />
 *Data Factory:* To ingest Raw data from external azure environment, and for building and orchestration data pipeline. <br />
 *Databricks:* To do Data Processing, SQL analystics and Dashboard. <br />
+*Key Vault:* To store secrets and keys for secure access <br />
 
 Below is the steup of the enviroment on Azure and resurces used. <br />
 
+There are few steps in establishing connections, access between services inside Azure environment, which are documented in Azure documentation. <br />
 
 ## Azure cloud environment visualization 
 <img width="819" alt="Screenshot 2024-12-08 at 2 38 01 PM" src="https://github.com/user-attachments/assets/11338cf0-d5c5-47f6-a927-9bb85341971d">
