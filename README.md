@@ -11,6 +11,7 @@
 
 ## Databricks Data Catalouge
 Datasets(*external delta tables*) are registered in azure databrciks data catalog for quring in *Databricks SQL Editor* and creating dashboards within the databrciks workspace in Azure cloud. <br />
+
   **ipl_data:** Enhanced datasets in adls gen2 silver zone <br />
   **ipl_batting_stats:** Aggregated batting reports calculated and stored in adls gen2 gold zone <br />
   **ipl_bowling_stats:** Aggregated bowling reports calculated and stored in adls gen2 gold zone <br />
