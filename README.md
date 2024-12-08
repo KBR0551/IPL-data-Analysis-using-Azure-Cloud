@@ -1,9 +1,11 @@
 # IPL-data-Analysis-using-Azure-Cloud
 In this repo I have utilized Azure Cloud services to Ingest, store & process data IPL data to develop IPL statistics reports @ https://www.iplt20.com/stats/2008 from year 2008 to 2017. <br />
-**Azure Cloud resouces used:** <br />
+**Azure Cloud resouces used:** <br /> <br />
 *ADLS GEN2:* Store layer (/bronze, silver, gold) <br />
 *Data Factory:* To ingest Raw data from external azure environment, and for building and orchestration data pipeline. <br />
-*Databricks:* To do Data Processing, SQL analystics and Dashboard.
+*Databricks:* To do Data Processing, SQL analystics and Dashboard. <br />
+
+Below is the steup of the enviroment on Azure and resurces used. <br />
 
 
 ## Azure cloud environment visualization 
