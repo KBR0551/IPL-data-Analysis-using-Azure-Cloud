@@ -18,6 +18,7 @@ Datasets(*external delta tables*) are registered in azure databrciks data catalo
   
 <img width="485" alt="Screenshot 2024-12-08 at 3 10 57 PM" src="https://github.com/user-attachments/assets/8321ecd1-a77b-4afc-b636-4d51f513c4a4"> 
 
-![image](https://github.com/user-attachments/assets/e6292750-51a1-4ee7-9275-8396179d7ad6)
+<img width="331" alt="Screenshot 2024-12-08 at 4 01 42 PM" src="https://github.com/user-attachments/assets/72118993-8570-42b6-9d4d-b4011822a8cf">
+
 
 <img width="344" alt="Screenshot 2024-12-08 at 3 59 09 PM" src="https://github.com/user-attachments/assets/ca68b362-286f-47de-b5d3-4282870e0310">
