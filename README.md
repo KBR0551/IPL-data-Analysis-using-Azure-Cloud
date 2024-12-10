@@ -1,5 +1,5 @@
 # IPL-data-Analysis-using-Azure-Cloud
-In this repo I have utilized Azure Cloud services to Ingest, store & process data IPL data to develop IPL statistics reports @ https://www.iplt20.com/stats/2008 from year 2008 to 2017. <br />
+In this repo I have utilized Azure Cloud services to Ingest, process & store IPL dataset. I will be developing IPL statistics wich will look like reports/stats @ https://www.iplt20.com/stats/2008 from year 2008 to 2017. <br />
 
 Data is available in https://github.com/KBR0551/IPL-data-Analysis-using-Databricks-SQL/tree/main/data repo. <br />
 
